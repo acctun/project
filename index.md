@@ -1,5 +1,5 @@
 ---
-title: Team 51: Will Cho, Haruka Uchida, Jessica Zhao
+title: Team 51 Will Cho, Haruka Uchida, Jessica Zhao
 ---
 > Alzheimer's Classification - CS 109a Final Project
 
