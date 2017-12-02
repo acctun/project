@@ -1,5 +1,5 @@
 ---
-title: use raceLabels = df_train.PTRACCAT.unique() as above
+title: EDA
 notebook: fp-eda.ipynb
 nav_include: 1
 ---

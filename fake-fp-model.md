@@ -1,5 +1,5 @@
 ---
-title: use raceLabels = df_train.PTRACCAT.unique() as above
+title: Models
 notebook: fake-fp-model.ipynb
 nav_include: 2
 ---
